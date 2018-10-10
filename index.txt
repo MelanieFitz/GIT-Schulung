@@ -1,3 +1,5 @@
 ﻿Hallo, und tschüß!
 
 Wir lernen heute wie man GIT benutzt
+
+(: üben mit GIT macht riesigen Spaß :)
