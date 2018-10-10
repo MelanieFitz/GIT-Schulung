@@ -1,1 +1,3 @@
-Hallo, und tschüß!
+﻿Hallo, und tschüß!
+
+Wir lernen heute wie man GIT benutzt
