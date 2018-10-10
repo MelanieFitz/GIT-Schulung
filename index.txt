@@ -2,4 +2,6 @@
 
 Wir lernen heute wie man GIT benutzt
 
-Eine Entwicklungsänderung
+Eine Entwicklungsänderung:
+(: üben mit GIT macht riesigen Spaß :)
+
